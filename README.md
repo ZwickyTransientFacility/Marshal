@@ -40,8 +40,8 @@ shortly.
 ### High-level issues
 
 Three high-level should be discussed and finalized soon. 
-1. User system and corresponding privileges.
-2. Database type and schema: given the heterogeneity of incoming data, a non-relational
-database might be more appropriate. Plus the fact that there will be little connection
-between two objects of interest, a database like MongoDB seems appropriate. 
-3. Web interface design: this should be done in CSS files.
+ 1. User system and corresponding privileges.
+ 2. Database type and schema: given the heterogeneity of incoming data, a non-relational
+ database might be more appropriate. Plus the fact that there will be little connection
+ between two objects of interest, a database like MongoDB seems appropriate. 
+ 3. Web interface design: this should be done in CSS files.
